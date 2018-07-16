@@ -4,10 +4,10 @@ Grid Layoutは、Boxesとsizingと配置を制御するCSSの新しいレイア�
 
 [CSS Grid Layout Module Level 1](https://www.w3.org/TR/2017/CR-css-grid-1-20171214/)
 
-下の図は典型的なflex-layout
+下の図は典型的なflex-layout  
 ![flex-layout](images/flex-layout.png)
 
-次の図はgrid-layout
+次の図はgrid-layout  
 ![grid-layout](images/grid-layout.png)
 
 [使用可能なブラウザ](https://caniuse.com/#feat=css-grid)
